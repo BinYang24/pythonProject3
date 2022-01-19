@@ -11,6 +11,7 @@ def print_hi(name):
     print("this is the main part")
     print("fsafsfsfsf")
     print("sfsdfsdf")
+    print("csfsdf")
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
